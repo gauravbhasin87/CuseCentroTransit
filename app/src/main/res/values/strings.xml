@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CuseCentroTransit</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Route">Route</string>
+    <string name="Dir">Direction</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
